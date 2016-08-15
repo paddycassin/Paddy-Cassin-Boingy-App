@@ -1,0 +1,29 @@
+.register-form{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: left;
+	padding: 10px;
+	color: #000000;
+	background : #255,255,255,0.5;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
+.register-form form input{
+	padding: 5px;
+	color: #0000FF;
+}
+.register-form .btn{background: #726E6E;
+padding: 7px;
+border-radius: 5px;
+text-decoration: none;
+width: 50px;
+display: inline-block;
+color: #fff;}
+
+.register-form .register{
+border: 0;
+width: 60px;
+padding: 8px;
+}
